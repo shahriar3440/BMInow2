@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMInow</string>
+    <string name="weight">Your Weight</string>
+    <string name="enter_your_height_ft">Enter your Height(in Ft.)</string>
+    <string name="enter_your_height_inc">Enter your height(in Inc.)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="your_bmi">Your BMI</string>
+    <string name="bmi">BMI.</string>
+    <string name="inch">Inch.</string>
+    <string name="feet">Feet.</string>
+    <string name="health_status">You are Healthy.</string>
+    <string name="enter_your_height">Enter your Height</string>
+    <string name="credit">Made with ❤️ by Shahriar Fahim</string>
+    <string name="kg">In Kg.</string>
+</resources>
